@@ -7,6 +7,6 @@
 	<key>strurldownload</key>
 	<string>http://www.viewlyrics.com/</string>
 	<key>APIVersion</key>
-	<integer>5</integer>
+	<integer>1</integer>
 </dict>
 </plist>
