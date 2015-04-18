@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>strurlpathsearch</key>
-	<string>http://m.nhaccuatui.com/</string>
+	<string>http://search.crintsoft.com/searchlyrics.htm</string>
 	<key>strurldownload</key>
-	<string>http://m.nhaccuatui.com/</string>
+	<string>http://www.viewlyrics.com/</string>
 	<key>APIVersion</key>
-	<integer>5</integer>
+	<integer>0</integer>
 </dict>
 </plist>
