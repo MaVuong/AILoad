@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arrbd</key>
+	<array>
+		<string>The Boss is dead!</string>
+		<string>A dead body!</string>
+		<string>  ALARM !!!</string>
+		<string>  Damn it! </string>
+	</array>
+	<key>arrcb</key>
+	<array>
+		<string>give no chance</string>
+		<string>Where is he?</string>
+		<string>I will kill you</string>
+		<string>We should find him</string>
+		<string>Get Him !!!</string>
+		<string>Where did he go?</string>
+		<string>I want him dead</string>
+		<string>He mustn't escape!</string>
+		<string>Look everywhere</string>
+		<string>Find him !!!</string>
+		<string>Shoot Him !!!</string>
+		<string>Get Him !!</string>
+	</array>
+	<key>arrkp</key>
+	<array>
+		<string>what a fool...</string>
+		<string>I killed him</string>
+		<string>Clean this place up</string>
+		<string>we never fail</string>
+		<string>he sucks</string>
+		<string>not my fault</string>
+		<string>what a fool...</string>
+		<string>finally</string>
+		<string>I never forgive</string>
+		<string>are you kidding me</string>
+		<string>you are dead</string>
+		<string>nice suit</string>
+		<string>everybody dies...</string>
+		<string>consequences...</string>
+		<string>What a noob...</string>
+		<string>I am ultimate guard</string>
+		<string>piece of cake...</string>
+		<string>what a fool...</string>
+		<string>I got him</string>
+		<string>my job is easy</string>
+		<string>so miserable</string>
+		<string>this was inevitable</string>
+		<string>this was his fate</string>
+		<string>we need a body bag</string>
+		<string>my first kill</string>
+		<string>I want his knife</string>
+		<string>finally</string>
+		<string>he was easy to kill</string>
+		<string>you are dead</string>
+		<string>give me a medal</string>
+		<string>I am professional</string>
+		<string>we got you</string>
+		<string>we never fail</string>
+		<string>was he an assassin</string>
+		<string>I assassinated him</string>
+		<string>We killed him!</string>
+		<string>he is history</string>
+		<string>Die !</string>
+		<string>Target Eliminated</string>
+	</array>
+</dict>
+</plist>
